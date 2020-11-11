@@ -1,2 +1,2 @@
 # JeopardyGame
-https://williamthethird.github.io/JeopardyGame/.
+https://williamthethird.github.io/JeopardyGame/
